@@ -16,9 +16,9 @@ Computer Science student at Ulster University. I build web apps and tools that s
 
 #### Featured Project
 
-<a href="https://github.com/milnee/better-pdf">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=milnee&repo=better-pdf&theme=dark&hide_border=true&bg_color=0d1117" />
-</a>
+[**Better PDF**](https://github.com/milnee/better-pdf) — Free, private PDF tools that run entirely in your browser. No uploads, no sign up.
+
+[![Better PDF](https://img.shields.io/badge/Live-better--pdf.com-blue?style=for-the-badge)](https://better-pdf.com)
 
 ---
 
