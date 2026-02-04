@@ -22,4 +22,4 @@ Computer Science student at Ulster University. I build web apps and tools that s
 
 ---
 
-<a href="https://better-pdf.com">better-pdf.com</a>
+<a href="https://better-pdf.com">better-pdf.com</a> · <a href="https://x.com/stargazes">X</a> · <a href="https://linkedin.com/in/singhmillen">LinkedIn</a>
