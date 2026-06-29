@@ -13,6 +13,8 @@ Computer Science student at Ulster University. I build web apps and tools that s
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
 
 #### Featured Projects
 
@@ -26,4 +28,4 @@ Computer Science student at Ulster University. I build web apps and tools that s
 
 ---
 
-<a href="https://better-pdf.com">better-pdf.com</a> · <a href="https://x.com/stargazes">Twitter</a> · <a href="https://linkedin.com/in/singhmillen">LinkedIn</a>
+<a href="https://millen.sh">millen.sh</a> · <a href="https://x.com/stargazes">Twitter</a> · <a href="https://linkedin.com/in/singhmillen">LinkedIn</a>
