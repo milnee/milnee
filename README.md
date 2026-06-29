@@ -20,7 +20,7 @@ Computer Science student at Ulster University. I build web apps and tools that s
 
 [![Better PDF](https://img.shields.io/badge/Live-better--pdf.com-blue?style=for-the-badge)](https://better-pdf.com)
 
-**Kebab House Derry** — Online ordering site for a local takeaway. Menu, cart, Stripe checkout and a merchant admin dashboard.
+[**Kebab House Derry**](https://kebabhousederry.com) — Online ordering site for a local takeaway. Menu, cart, Stripe checkout and a merchant admin dashboard.
 
 [![Kebab House Derry](https://img.shields.io/badge/Live-kebabhousederry.com-blue?style=for-the-badge)](https://kebabhousederry.com)
 
