@@ -4,7 +4,7 @@ Computer Science student at Ulster University. I build web apps and tools that s
 
 - Currently building [better-pdf.com](https://better-pdf.com) — 16 free PDF tools that run in your browser
 - Interested in full-stack development, privacy-focused software, and open source
-- Looking for internship/placement opportunities
+- IT Intern at Seagate Technology — placement through 2027
 
 #### Tech Stack
 
