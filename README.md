@@ -14,11 +14,15 @@ Computer Science student at Ulster University. I build web apps and tools that s
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
-#### Featured Project
+#### Featured Projects
 
 [**Better PDF**](https://github.com/milnee/better-pdf) — Free, private PDF tools that run entirely in your browser. No uploads, no sign up.
 
 [![Better PDF](https://img.shields.io/badge/Live-better--pdf.com-blue?style=for-the-badge)](https://better-pdf.com)
+
+**Kebab House Derry** — Online ordering site for a local takeaway. Menu, cart, Stripe checkout and a merchant admin dashboard.
+
+[![Kebab House Derry](https://img.shields.io/badge/Live-kebabhousederry.com-blue?style=for-the-badge)](https://kebabhousederry.com)
 
 ---
 
